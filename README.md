@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Ricky-Henderson
-- 👀 I’m interested in ...✔
-- 🌱 I’m currently learning ...🚧
-- 💞️ I’m looking to collaborate on ...📈
-- 📫 How to reach me ...🍔
+- 🚧 Hi, I’m @Ricky-Henderson
+- 👀 
+- 📫 How to reach me ...👋🍔
 
 <!---
 Ricky-Henderson/Ricky-Henderson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
